@@ -39,4 +39,4 @@ This is a link to my website.
 
 ## Images
 
-![Annie Image]("https://www.google.com/url?sa=i&url=https%3A%2F%2Fgaymingmag.com%2F2022%2F01%2Fjujutsu-kaisen-is-a-hot-mess-but-an-enjoyable-one%2F&psig=AOvVaw2zIMqfu6pVhULmKcBlUO-f&ust=1680026672977000&source=images&cd=vfe&ved=0CBAQjRxqFwoTCKjhmZvZ_P0CFQAAAAAdAAAAABAa")
+<img src="https://gaymingmag.com/wp-content/uploads/2022/01/jjk.jpeg" width="200">
