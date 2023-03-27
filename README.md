@@ -18,3 +18,14 @@ This is 5 paragraph
 ### SubHeading
 
 #### Subheading
+
+## Bold Text
+
+this paragraph hase some *italics text* .
+
+## List
+    1. ONE IS ONE
+    2. 2 IS TWO
+    3. 3 IS THREE
+    SOME MOREN INTRUCTIONS FOR NUMBER 4
+    5. 5 IS FIVE
