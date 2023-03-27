@@ -42,3 +42,10 @@ This is a link to my website.
 <img src="https://gaymingmag.com/wp-content/uploads/2022/01/jjk.jpeg" width="200">
 
 <img src="./images/jjk2-1024x576.jpeg" width="200">
+
+## Adding Code
+
+you can add inline ` code ` using a single tic. or miliples link of code using three ticks.
+```javascripts
+consoloe.log("sadsadasd);
+```
