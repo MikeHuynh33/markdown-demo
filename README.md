@@ -32,4 +32,4 @@ this paragraph hase some *italics text* .
 ## Links
     This is a link to my website.
 
-    [mikehuynh.ca](google.com)
+    [mikehuynh.ca](http://google.com)
