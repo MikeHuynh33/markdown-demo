@@ -46,6 +46,6 @@ This is a link to my website.
 ## Adding Code
 
 you can add inline ` code ` using a single tic. or miliples link of code using three ticks.
-```javascripts
+```javascript
 consoloe.log("sadsadasd);
 ```
