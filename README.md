@@ -47,5 +47,12 @@ This is a link to my website.
 
 you can add inline ` code ` using a single tic. or miliples link of code using three ticks.
 ```javascript
-consoloe.log("sadsadasd);
+consoloe.log("sadsadasd");
 ```
+
+## Table
+
+Heading 1 | Heading 2 | Heading 3 | # |
+| --- | --- | :---: | ---: |
+Value 1 | Value 2 | Value 3 | 4000
+Value 4 | Value 5 | Value 6 | 450
