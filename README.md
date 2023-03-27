@@ -40,3 +40,5 @@ This is a link to my website.
 ## Images
 
 <img src="https://gaymingmag.com/wp-content/uploads/2022/01/jjk.jpeg" width="200">
+
+<img src="./images/jjk2-1024x576.jpeg" width="200">
