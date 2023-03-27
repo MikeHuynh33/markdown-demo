@@ -29,3 +29,7 @@ this paragraph hase some *italics text* .
     3. 3 IS THREE
     SOME MOREN INTRUCTIONS FOR NUMBER 4
     5. 5 IS FIVE
+## Links
+    This is a link to my website.
+
+    [mikehuynh.ca](google.com)
